@@ -10,30 +10,26 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Jekeltor&label=Views&color=blue&style=plastic) 
 
-I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls 👨🏻‍💻. I'm currently into Discord Bot Development 🕸️ and working on my Class Extenders and Formatting 🤓.
+My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelors of Science in Computer Science. At the current moment, I'm at Sinclair Community College for my undergraduate and will transfer to Wright State to finish my degree. I started website development back in 2018 and have had a passion for creating software ever since.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-HYPERZ%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://hyperz.dev/discord)
-
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
-
+[![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
-- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
-- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- ℹ️ &nbsp; [Splash Page](https://github.com/Jekeltor/Splash-Page)
+- 🏪 &nbsp; [Store Template](https://github.com/Jekeltor/Store-Template)
+- 📥 &nbsp; [Client Area](https://github.com/Jekeltor/Client-Area)
+- 💬 &nbsp; [Community Template](https://github.com/Jekeltor/Community-Template)
 
 ### Languages and Tools:
 
+![](https://img.shields.io/badge/PHP-43853D?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/C++-005085?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
@@ -48,21 +44,11 @@ I'm a Highschool student planning to pursue Law Enforcement when I'm older 👮.
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Itz-Hyperz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Itz-Hyperz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Itz-Hyperz&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/Jekeltor">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jekeltor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jekeltor&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
----
-
-### ⚙️ My Resources & Tools:
-
-- OS: Windows 10
-- Laptop: HP Pavillion (I have a custom desktop)
-- Browser: Brave Browser
-- Code Editor: VSCode - The best editor out there
-- Stay Updated: [YouTube](https://hyperz.dev/youtube), [Discord](https://hyperz.dev/discord), and [Twitter](https://twitter.com/itz_hyperz)
 
 ---
 
