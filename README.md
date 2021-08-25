@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://hambl.in/twitter)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://hambl.in/github)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Jekeltor&label=Views&color=blue&style=plastic) 
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
 My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelors of Science in Computer Science. At the current moment, I'm at Sinclair Community College for my undergraduate and will transfer to Wright State to finish my degree. I started website development back in 2018 and have had a passion for creating software ever since.
 
@@ -17,10 +17,10 @@ My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursui
 
 ### Some Highlights:
 
-- ℹ️ &nbsp; [Splash Page](https://github.com/Jekeltor/Splash-Page)
-- 🏪 &nbsp; [Store Template](https://github.com/Jekeltor/Store-Template)
-- 📥 &nbsp; [Client Area](https://github.com/Jekeltor/Client-Area)
-- 💬 &nbsp; [Community Template](https://github.com/Jekeltor/Community-Template)
+- ℹ️ &nbsp; [Splash Page](https://github.com/JakeHamblin/Splash-Page)
+- 🏪 &nbsp; [Store Template](https://github.com/JakeHamblin/Store-Template)
+- 📥 &nbsp; [Client Area](https://github.com/JakeHamblin/Client-Area)
+- 💬 &nbsp; [Community Template](https://github.com/JakeHamblin/Community-Template)
 
 ### Languages and Tools:
 
@@ -44,9 +44,9 @@ My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursui
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/Jekeltor">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jekeltor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jekeltor&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/JakeHamblin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JakeHamblin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JakeHamblin&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
