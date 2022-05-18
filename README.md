@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelors of Science in Computer Science. At the current moment, I'm at Sinclair Community College for my undergraduate and will transfer to Wright State to finish my degree. I started website development back in 2018 and have had a passion for creating software ever since.
+My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelor of Science in Computer Science. At the current moment, I'm at Sinclair Community College and will transfer to Wright State to finish my undergraduate degree. I started website development back in 2018 and have had a passion for creating software ever since.
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
