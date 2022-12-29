@@ -29,10 +29,6 @@ My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursui
 ![](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/C++-005085?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
