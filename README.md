@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-My name is Jake Hamblin and I'm a Computer Scientist.. I started website development back in 2018 and have had a passion for creating software ever since. I'm currently pursuing a Bachelors of Science in Computer Science at Wright State University, and have already completed my Assosciates of Science in Computer Science.
+My name is Jake Hamblin and I'm a Computer Scientist. I started website development back in 2018 and have had a passion for creating software ever since. I'm currently pursuing a Bachelors of Science in Computer Science at Wright State University, and have already completed my Assosciates of Science in Computer Science.
 
 ### Languages and Tools:
 
