@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursuing a Bachelor of Science in Computer Science. At the current moment, I'm at Sinclair Community College and will transfer to Wright State to finish my undergraduate degree. I started website development back in 2018 and have had a passion for creating software ever since.
+My name is Jake Hamblin and I'm a Computer Scientist.. I started website development back in 2018 and have had a passion for creating software ever since. I'm currently pursuing a Bachelors of Science in Computer Science at Wright State University, and have already completed my Assosciates of Science in Computer Science.
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-JAKE%20HAMBLIN-17a6ec?style=for-the-badge)](https://hambl.in/discord)
@@ -28,27 +28,4 @@ My name is Jake Hamblin and I'm a Computer Science student. I'm currently pursui
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/C++-005085?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
-
-### ⚙️ &nbsp;GitHub Stats
-
-<p align="left">
-<a href="https://github.com/JakeHamblin">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JakeHamblin&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JakeHamblin&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
----
-
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-
----
+![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)&nbsp
