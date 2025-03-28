@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
 
-My name is Jake Hamblin and I'm an Embedded Software Engineer. I started website development back in 2018 and have had a passion for creating software ever since. I'm currently pursuing a Bachelors of Science in Computer Science at Wright State University, and completed my Associates of Science in Computer Science at Sinclair Community College in 2023.
+My name is Jake Hamblin and I'm an Embedded Software Engineer. I started website development back in 2018 and have had a passion for creating software ever since. I'm currently pursuing a Bachelors of Science in Computer Engineering at Wright State University, and completed my Associates of Science in Computer Science at Sinclair Community College in 2023.
 
 ### Languages and Tools:
 
